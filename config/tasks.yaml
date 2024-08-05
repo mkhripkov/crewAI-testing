@@ -1,0 +1,6 @@
+chat_task:
+  description: >
+    Agent1 will start a conversation about the weather. Agent2 will respond with detailed weather information and ask a follow-up question.
+  expected_output: >
+    A dialogue where Agent1 starts the conversation about the weather and Agent2 provides detailed information and a follow-up question.
+  agent: agent1

@@ -1,6 +1,6 @@
 chat_task:
   description: >
-    Agent1 will start a conversation about the weather. Agent2 will respond with detailed weather information and ask a follow-up question.
+    Agent1 will start a conversation by advocating for Charmander as the best starter Pokémon. Agent2 will counter by defending Pikachu. The debate should continue with each agent presenting arguments and counterarguments.
   expected_output: >
-    A dialogue where Agent1 starts the conversation about the weather and Agent2 provides detailed information and a follow-up question.
+    A lively debate where Agent1 and Agent2 argue over whether Charmander or Pikachu is the better starter Pokémon.
   agent: agent1

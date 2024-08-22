@@ -1,5 +1,5 @@
 # Author: Michael Khripkov
-# Date: 8/5/24
+# Date: 8/22/24
 # Purpose: Test crewAI library and OpenAI API
 
 import os
